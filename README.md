@@ -1,5 +1,5 @@
 <h1 align="center">
-    📝 Documentação AGV-2021
+    📝 Documentação AGV-2021-
 </h1>
 
 <p align="center">Repositório definitivo da Documentação realizado para a escola SENAI Suiço-Brasileira.</p>
